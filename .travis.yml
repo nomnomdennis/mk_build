@@ -6,6 +6,5 @@ install:
 script: 
   - cd database 
   - mkdocs build 
-  - cd site 
   - npm install surge
-  - node_modules/.bin/surge galadriel-site galad-test.surge.sh
+  - node_modules/.bin/surge site galad-test.surge.sh
