@@ -15,3 +15,8 @@ For full documentation visit [mkdocs.org](http://mkdocs.org).
     docs/
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
+
+!!! warning
+
+You should never edit files in your gh-pages branch by hand if you're using
+the `gh-deploy` command because you will lose your work.
