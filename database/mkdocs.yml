@@ -1,8 +1,0 @@
-site_name: Galadriel Database
-
-pages:
-    - 'Introduction': 'index.md'
-    - 'Fusilier': 'fusilier.md'
-    - 'About': 'about.md'
-
-theme: readthedocs
