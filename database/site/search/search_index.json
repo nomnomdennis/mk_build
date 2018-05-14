@@ -1,0 +1,64 @@
+{
+    "docs": [
+        {
+            "location": "/",
+            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.\n\n\n\n!!! warning\n\n\nYou should never edit files in your gh-pages branch by hand if you're using\nthe `gh-deploy` command because you will lose your work.\n\n\n\nRead the Docs\n\n\nRead the Docs\n offers free documentation hosting. You can import your docs\nusing any major version control system, including Mercurial, Git, Subversion,\nand Bazaar. Read the Docs supports MkDocs out-of-the-box. Follow the\n\ninstructions\n on their site to arrange the files in your repository properly,\ncreate an account and point it at your publicly hosted repository. If properly\nconfigured, your documentation will update each time you push commits to your\npublic repository.\n\n\n!!! note\n\n\nTo benefit from all of the [features] offered by Read the Docs, you will need\nto use the [Read the Docs theme][theme] which ships with MkDocs. The various\nthemes which may be referenced in Read the Docs' documentation are Sphinx\nspecific themes and will not work with MkDocs.",
+            "title": "Introduction"
+        },
+        {
+            "location": "/#welcome-to-mkdocs",
+            "text": "For full documentation visit  mkdocs.org .",
+            "title": "Welcome to MkDocs"
+        },
+        {
+            "location": "/#commands",
+            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.",
+            "title": "Commands"
+        },
+        {
+            "location": "/#project-layout",
+            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.  !!! warning  You should never edit files in your gh-pages branch by hand if you're using\nthe `gh-deploy` command because you will lose your work.",
+            "title": "Project layout"
+        },
+        {
+            "location": "/#read-the-docs",
+            "text": "Read the Docs  offers free documentation hosting. You can import your docs\nusing any major version control system, including Mercurial, Git, Subversion,\nand Bazaar. Read the Docs supports MkDocs out-of-the-box. Follow the instructions  on their site to arrange the files in your repository properly,\ncreate an account and point it at your publicly hosted repository. If properly\nconfigured, your documentation will update each time you push commits to your\npublic repository.  !!! note  To benefit from all of the [features] offered by Read the Docs, you will need\nto use the [Read the Docs theme][theme] which ships with MkDocs. The various\nthemes which may be referenced in Read the Docs' documentation are Sphinx\nspecific themes and will not work with MkDocs.",
+            "title": "Read the Docs"
+        },
+        {
+            "location": "/fusilier/",
+            "text": "Fusilier\n\n\ntrigger builds!",
+            "title": "Fusilier"
+        },
+        {
+            "location": "/fusilier/#fusilier",
+            "text": "trigger builds!",
+            "title": "Fusilier"
+        },
+        {
+            "location": "/about/",
+            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands - About\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout - About\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.\n\n\n\nRead the Docs - About\n\n\n[Read the Docs][rtd] offers free documentation hosting. You can import your docs\nusing any major version control system, including Mercurial, Git, Subversion,\nand Bazaar. Read the Docs supports MkDocs out-of-the-box. Follow the\n[instructions] on their site to arrange the files in your repository properly,\ncreate an account and point it at your publicly hosted repository. If properly\nconfigured, your documentation will update each time you push commits to your\npublic repository.",
+            "title": "About"
+        },
+        {
+            "location": "/about/#welcome-to-mkdocs",
+            "text": "For full documentation visit  mkdocs.org .",
+            "title": "Welcome to MkDocs"
+        },
+        {
+            "location": "/about/#commands-about",
+            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.",
+            "title": "Commands - About"
+        },
+        {
+            "location": "/about/#project-layout-about",
+            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "title": "Project layout - About"
+        },
+        {
+            "location": "/about/#read-the-docs-about",
+            "text": "[Read the Docs][rtd] offers free documentation hosting. You can import your docs\nusing any major version control system, including Mercurial, Git, Subversion,\nand Bazaar. Read the Docs supports MkDocs out-of-the-box. Follow the\n[instructions] on their site to arrange the files in your repository properly,\ncreate an account and point it at your publicly hosted repository. If properly\nconfigured, your documentation will update each time you push commits to your\npublic repository.",
+            "title": "Read the Docs - About"
+        }
+    ]
+}
